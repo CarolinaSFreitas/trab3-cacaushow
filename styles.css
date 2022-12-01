@@ -1,0 +1,20 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#font-natal{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+
+.bg-drops {
+    background-color: #352727;
+}
+
+.bg-cacau {
+    background-color: #24140F;
+}
+
+#whitefooter{
+    color: white;
+}
